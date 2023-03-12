@@ -15,5 +15,7 @@ node app.js --> run JS file generated
 
 # TOPICS INDEX
 
-1. [Goals](./topics/01-goals.md)
-2. [Hello-World](./topics/02-hello-world.ts)
+**GETTING STARTED**
+
+* [Goals](./topics/01-goals.md)
+* [Hello-World](./topics/02-hello-world.md)
