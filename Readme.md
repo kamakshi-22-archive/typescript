@@ -17,4 +17,7 @@ node app.js --> run JS file generated
 
 * [Goals](./topics/01-goals.md)
 * [Hello-World](./topics/02-hello-world.md)
-*
+* [Type Annotations and Inference](./topics/03-annotations-inference.md)
+* [Primitive Types](./topics/04-primitive-types.md)
+* [Object Types](./topics/05-object-types.md)
+* [Type Alliases](./topics/06- type-alliases.md)
