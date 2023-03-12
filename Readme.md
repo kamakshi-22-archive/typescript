@@ -11,6 +11,12 @@ npm install -g typescript --> install typescript
 tsc --v  --> check version
 tsc app.ts --> compile TS file
 node app.js --> run JS file generated
+
+npm init --> create package.json
+npm i typescript --> install typescript
+tsc --init --> initialize typescript
+
+---
 ```
 
 # TOPICS INDEX
@@ -21,3 +27,8 @@ node app.js --> run JS file generated
 * [Primitive Types](./topics/04-primitive-types.md)
 * [Object Types](./topics/05-object-types.md)
 * [Type Alliases](./topics/06-type-alliases.md)
+* [Functions](./topic/07-functions.md)
+* [Classes](./topics/08-classes.md)
+* [Interfaces](./topics/09-interfaces.md)
+* [Generics](./topics/10-generics.md)
+* [Decorators](./topics/10-decorators.md)
