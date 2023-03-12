@@ -15,8 +15,6 @@ node app.js --> run JS file generated
 npm init --> create package.json
 npm i typescript --> install typescript
 tsc --init --> initialize typescript
-
----
 ```
 
 # TOPICS INDEX
