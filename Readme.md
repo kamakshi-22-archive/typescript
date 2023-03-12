@@ -1,6 +1,6 @@
 # **Introduction**
 
-[License File](./hello.ts).
+[License File](./topics/01-hello-world.ts).
 
 - **Typescript** is Typed JavaScript which adds types to JS to help speed up the development by catching errors before even running JScode.
 - **TS code -- TS compiler --> Plain JS**
