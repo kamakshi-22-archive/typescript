@@ -31,4 +31,4 @@ tsc --init --> initialize typescript
 * [Classes](./topics/08-classes.md)
 * [Interfaces](./topics/09-interfaces.md)
 * [Generics](./topics/10-generics.md)
-* [Decorators](./topics/10-decorators.md)
+* [Decorators](./topics/11-decorators.md)
