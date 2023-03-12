@@ -2,7 +2,7 @@
 
 ```
 let message: string = 'Hello, World!';
-console.log(message);
+console.log(message)
 ```
 
 * create a new heading 1 element
